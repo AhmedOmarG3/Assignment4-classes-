@@ -46,7 +46,7 @@ This Dart project demonstrates the creation of three classes: Student, BankAccou
 To run the code:
 1. Clone the repository to your local machine:
    `bash
-   git clone https://github.com/AhmedOmarG3/repository-name.git
+   git clone https://github.com/AhmedOmarG3/Assignment4-classes-
 
 2. Navigate to the project directory:
 
